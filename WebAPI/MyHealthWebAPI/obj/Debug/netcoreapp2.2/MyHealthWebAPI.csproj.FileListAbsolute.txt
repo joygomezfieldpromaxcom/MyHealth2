@@ -1,0 +1,14 @@
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\bin\Debug\netcoreapp2.2\MyHealthWebAPI.deps.json
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\bin\Debug\netcoreapp2.2\MyHealthWebAPI.runtimeconfig.json
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\bin\Debug\netcoreapp2.2\MyHealthWebAPI.runtimeconfig.dev.json
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\bin\Debug\netcoreapp2.2\MyHealthWebAPI.dll
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\bin\Debug\netcoreapp2.2\MyHealthWebAPI.pdb
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.RazorAssemblyInfo.cache
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.RazorAssemblyInfo.cs
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.AssemblyInfoInputs.cache
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.AssemblyInfo.cs
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.dll
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.pdb
+C:\Users\m056089\Desktop\MyHealth\WebAPI\MyHealthWebAPI\obj\Debug\netcoreapp2.2\MyHealthWebAPI.csprojAssemblyReference.cache
