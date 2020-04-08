@@ -43,7 +43,7 @@ namespace MyHealthWebAPI.Controllers
             return problemList;
         }
 
-        // PUT: api/ProblemLists/5
+        // PUT: api/ProblemLists/5 s
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProblemList(string id, ProblemList problemList)
         {
